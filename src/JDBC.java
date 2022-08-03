@@ -5,7 +5,7 @@ public class JDBC {
 
     private static String url = "jdbc:mysql://localhost:3306/test_schema";
     private static String user = "root";
-    private static String password = "Packers123";
+    private static String password;
 
 
     public static void main(String[] args){
